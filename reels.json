@@ -31,7 +31,7 @@
       "des":"ZipKiller is a tool written in Python 3 that uses the built-in zipfile module to perform dictionary and brute-force attacks on .zip archives. It is designed to be fast, efficient, and beginner-friendly for learning purposes. The tool supports saving and loading password lists from a configuration file (zip.conf), allowing users to manage their wordlists and reuse them easily during password cracking",
       "link":"https://www.mediafire.com/file/2tygkltlbtdn5k5/tk.apk/file",
       "btn":"view",
-      "imge":"https://i.ibb.co/CpFrV9sN/logo8-17-123249.png",
+      "imge":"https://i.ibb.co/SD9Lw2cZ/zip-killer.png",
       "hash":"zip password cracking"
     }]
 }
