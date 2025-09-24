@@ -1,45 +1,50 @@
 {
-  "Auther": "Lasith Ruwantha Amrawansha",
-  "data":[{
-    "Name":"BAT WORLD LIST PRO APK",
-    "Version":"2.1.3V",
-    "des":"Power full addvencher password list generator tool this app and simply usage and user friendly application ",
-    "link":"https://www.mediafire.com/file/2i79lqfyntphq4m/BAT.apk/file",
-    "btn":"Download",
-    "imge":"https://i.ibb.co/Mkg02p9d/IMG-20250731-WA0022.jpg",
-    "hash":"batpro Batpro wordlist"
-  },
+  "Author": "Lasith Ruwantha Amrawansha",
+  "data": [
     {
-      "Name":"Tiktok Booster",
-      "Version":"1.1.1V",
-      "des":"power full Ransomewear all image file encrypt to .enc format us as secret key.\nthis encrypt file format to jpg type us Passwd",
-      "link":"https://www.mediafire.com/file/2tygkltlbtdn5k5/tk.apk/file",
-      "btn":"Download",
-      "imge":"https://i.ibb.co/CpFrV9sN/logo8-17-123249.png",
-      "hash":"Ransomewear  encrypt Tiktok"
-    },{
-      "Name":"BAR WORD LIST UNLIMITED",
-      "Version":"2.1.1V",
-      "des":"BAT WORD LIST Unlimited is a powerful tool designed for passwordtesting and recovery. This latest version features advanced randomwordlist generation and a ZIP file password cracking option. Whetheryou're testing security or recovering lost data, BAT provides fast,efficient performance. Ideal for ethical hacking, penetration testing, andpassword research.",
-      "link":"https://github.com/ruwanth2754/BAT_WORD_LIST",
-      "btn":"Download",
-      "imge":"https://i.ibb.co/Mkg02p9d/IMG-20250731-WA0022.jpg",
-      "hash":"zip Pasword Bat BatUnlimted Unlimited unlimited"
-    },{
-      "Name":"Zip Killer Tool",
-      "Version":"1.1.1V",
-      "des":"ZipKiller is a tool written in Python 3 that uses the built-in zipfile module to perform dictionary and brute-force attacks on .zip archives. It is designed to be fast, efficient, and beginner-friendly for learning purposes. The tool supports saving and loading password lists from a configuration file (zip.conf), allowing users to manage their wordlists and reuse them easily during password cracking",
-      "link":"https://github.com/ruwanth2754/ZIP-Killer/",
-      "btn":"View",
-      "imge":"https://i.ibb.co/SD9Lw2cZ/zip-killer.png",
-      "hash":"zip password cracking"
-    },{
-      "Name":"BAT WORD LIST GENERATOR APPLICATION",
-      "Version":"1.1.2V",
-      "des":"A powerful password word list generator app for Android. Generate 3900+ custom password patterns instantly for ethical hacking, pentesting, and cybersecurity research.",
-      "link":"https://github.com/ruwanth2754/BAT_WORD_LIST/",
-      "btn":"Download",
-      "imge":"https://i.ibb.co/WNZ4KTy7/IMG-20250725-WA0023.jpg",
-      "hash":"password cracking Bat nomel bat"
-    }]
+      "Name": "BAT WORLD LIST PRO APK",
+      "Version": "2.1.3V",
+      "des": "Powerful adventure password list generator tool. This app is simple to use and user-friendly.",
+      "link": "https://www.mediafire.com/file/2i79lqfyntphq4m/BAT.apk/file",
+      "btn": "Download",
+      "imge": "https://i.ibb.co/Mkg02p9d/IMG-20250731-WA0022.jpg",
+      "hash": "batpro Batpro wordlist"
+    },
+    {
+      "Name": "Tiktok Booster",
+      "Version": "1.1.1V",
+      "des": "Powerful ransomware. All image files encrypt to .enc format using a secret key. Encrypted files appear as jpg type using password.",
+      "link": "https://www.mediafire.com/file/2tygkltlbtdn5k5/tk.apk/file",
+      "btn": "Download",
+      "imge": "https://i.ibb.co/CpFrV9sN/logo8-17-123249.png",
+      "hash": "Ransomewear encrypt Tiktok"
+    },
+    {
+      "Name": "BAR WORD LIST UNLIMITED",
+      "Version": "2.1.1V",
+      "des": "BAT WORD LIST Unlimited is a powerful tool designed for password testing and recovery. This latest version features advanced random word list generation and a ZIP file password cracking option. Ideal for ethical hacking, penetration testing, and password research.",
+      "link": "https://github.com/ruwanth2754/BAT_WORD_LIST",
+      "btn": "Download",
+      "imge": "https://i.ibb.co/Mkg02p9d/IMG-20250731-WA0022.jpg",
+      "hash": "zip Pasword Bat BatUnlimted Unlimited unlimited"
+    },
+    {
+      "Name": "Zip Killer Tool",
+      "Version": "1.1.1V",
+      "des": "ZipKiller is a Python 3 tool using the zipfile module for dictionary and brute-force attacks on .zip archives. Fast, efficient, and beginner-friendly. Supports saving and loading password lists from zip.conf for reuse.",
+      "link": "https://github.com/ruwanth2754/ZIP-Killer/",
+      "btn": "View",
+      "imge": "https://i.ibb.co/SD9Lw2cZ/zip-killer.png",
+      "hash": "zip password cracking"
+    },
+    {
+      "Name": "BAT WORD LIST GENERATOR APPLICATION",
+      "Version": "1.1.2V",
+      "des": "A powerful password word list generator app for Android. Generate 3900+ custom password patterns instantly for ethical hacking, pentesting, and cybersecurity research.",
+      "link": "https://github.com/ruwanth2754/BAT_WORD_LIST/",
+      "btn": "Download",
+      "imge": "https://i.ibb.co/WNZ4KTy7/IMG-20250725-WA0023.jpg",
+      "hash": "password cracking Bat nomel bat"
+    }
+  ]
 }
