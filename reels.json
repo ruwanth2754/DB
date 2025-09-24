@@ -12,7 +12,7 @@
     {
       "Name":"Tiktok Booster",
       "Version":"1.1.1V",
-      "des":"power full Ransomewear all image file encrypt to .enc format us as<br>secret key.this encrypt file format to jpg type us Passwd",
+      "des":"power full Ransomewear all image file encrypt to .enc format us as secret key.\nthis encrypt file format to jpg type us Passwd",
       "link":"https://www.mediafire.com/file/2tygkltlbtdn5k5/tk.apk/file",
       "btn":"Download",
       "imge":"https://i.ibb.co/CpFrV9sN/logo8-17-123249.png",
@@ -24,6 +24,14 @@
       "link":"https://github.com/ruwanth2754/BAT_WORD_LIST",
       "btn":"Download",
       "imge":"https://i.ibb.co/Mkg02p9d/IMG-20250731-WA0022.jpg",
-      "hash":"zipPasword Bat BatUnlimted"
+      "hash":"zip Pasword Bat BatUnlimted Unlimited unlimited"
+    },{
+      "Name":"Zip Killer Tool",
+      "Version":"1.1.1V",
+      "des":"ZipKiller is a tool written in Python 3 that uses the built-in zipfile module to perform dictionary and brute-force attacks on .zip archives. It is designed to be fast, efficient, and beginner-friendly for learning purposes. The tool supports saving and loading password lists from a configuration file (zip.conf), allowing users to manage their wordlists and reuse them easily during password cracking",
+      "link":"https://www.mediafire.com/file/2tygkltlbtdn5k5/tk.apk/file",
+      "btn":"view",
+      "imge":"https://i.ibb.co/CpFrV9sN/logo8-17-123249.png",
+      "hash":"zip password cracking"
     }]
 }
