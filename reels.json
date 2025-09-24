@@ -3,7 +3,7 @@
   "data":[{
     "Name":"BAT WORLD LIST PRO APK",
     "Version":"2.1.3V",
-    "des":"Power full addvencher password list generator tool this app<br> and simply usage and user friendly application ",
+    "des":"Power full addvencher password list generator tool this app and simply usage and user friendly application ",
     "link":"https://www.mediafire.com/file/2i79lqfyntphq4m/BAT.apk/file",
     "btn":"Download",
     "imge":"https://i.ibb.co/Mkg02p9d/IMG-20250731-WA0022.jpg",
@@ -29,9 +29,17 @@
       "Name":"Zip Killer Tool",
       "Version":"1.1.1V",
       "des":"ZipKiller is a tool written in Python 3 that uses the built-in zipfile module to perform dictionary and brute-force attacks on .zip archives. It is designed to be fast, efficient, and beginner-friendly for learning purposes. The tool supports saving and loading password lists from a configuration file (zip.conf), allowing users to manage their wordlists and reuse them easily during password cracking",
-      "link":"https://www.mediafire.com/file/2tygkltlbtdn5k5/tk.apk/file",
-      "btn":"view",
+      "link":"https://github.com/ruwanth2754/ZIP-Killer/",
+      "btn":"View",
       "imge":"https://i.ibb.co/SD9Lw2cZ/zip-killer.png",
       "hash":"zip password cracking"
+    },{
+      "Name":"BAT WORD LIST GENERATOR APPLICATION",
+      "Version":"1.1.2V",
+      "des":"A powerful password word list generator app for Android. Generate 3900+ custom password patterns instantly for ethical hacking, pentesting, and cybersecurity research."
+      "link":"https://github.com/ruwanth2754/BAT_WORD_LIST/",
+      "btn":"Download",
+      "imge":"https://i.ibb.co/WNZ4KTy7/IMG-20250725-WA0023.jpg",
+      "hash":"password cracking Bat nomel bat"
     }]
 }
